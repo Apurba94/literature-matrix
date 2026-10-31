@@ -14,6 +14,11 @@ the former.
 
 `--demo` opens a temporary database with fictional sample papers.
 
+## Download
+
+Windows: get the `.exe` from [Releases](https://github.com/Apurba94/literature-matrix/releases/latest) and double-click it. No installation or Python is needed.
+Windows may show a SmartScreen warning the first time because the program is not code-signed: choose *More info*, then *Run anyway*.
+
 ## From source
 
 ```bash
